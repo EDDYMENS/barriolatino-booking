@@ -1,0 +1,39 @@
+.slot-title {
+    font-size: 40px;
+}
+
+.description {
+    border-right: 0.5px solid #696464;;
+}
+
+.active-slot {
+    background-color: #1a1a67e6;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 15px 50px 30px;
+}
+
+.inactive {
+   cursor: no-drop; 
+}
+
+.center-text {
+    display: block;
+    text-align: center;
+}
+
+.calendar-title {
+    font-size: 25px;
+}
+
+.table td, .table th {
+    padding: 0.35rem;
+}
+
+.table td, .table th {
+    border-top: none;
+}
+
+.options-list {
+    display: none;
+}
